@@ -1,0 +1,94 @@
+.layout{
+    margin-top: 75px;
+    margin-left: 150px;
+}
+.box{
+    border: black;
+    height: 380px;
+    width: 350px;
+    border-style: solid;
+    align-items: center;
+}
+.image{
+    width: 150px;
+    height: 55px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.login{
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.log,.pwd{
+    width: 250px;
+    height: 30px;
+    background-color:whitesmoke;
+}
+.pwd,.log-in{
+    margin-left: 45px;
+    margin-top: 5px;
+}
+.log-in{
+    background-color: rgb(0, 174, 255);
+    border-radius: 7px;
+    height: 30px;
+    width: 258px;
+    color: antiquewhite;
+}
+.log-in:hover{
+    opacity: 0.85;
+}
+.Line1{
+    height:15px;
+    width:250px;
+    display: flex;
+    column-gap: 18px;
+    margin-left: 50px;
+    margin-top: 25px;
+    
+}
+.Line2{
+    width:100%;
+    margin-top: 5.7px;
+    border-top:1.9px solid #e7e5e5;
+}
+.OR{
+    font-size: 17px;
+    font-weight: 410;
+    color: #6a6868f4;
+    font-family: Roboto;
+}
+.Facebook,.forgot{
+    margin-left: 100px;
+    margin-top: 25px;
+    border: none;
+    background-color: white;
+}
+.Icon{
+    width: 15px;
+}
+.fb{
+    color: hsl(221, 41%, 37%);
+    font-size: 14px;
+    vertical-align:top;
+}
+.forgot{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.box2{
+    border: black;
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    border-style: solid;
+    align-items: center;
+}
+.Bottom{
+    font-size: 14px;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.sign-up{
+    color: rgb(0, 110, 255);
+}
